@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "GEN-USER"
+      "value": "kuvinod"
     },
     "adminPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "password"
     },
     "dnsLabelPrefix": {
       "value": "GEN-UNIQUE"
